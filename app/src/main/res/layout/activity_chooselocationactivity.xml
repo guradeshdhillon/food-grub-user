@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".chooselocationactivity">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="64dp"
+        android:text="Choose your Location"
+        android:textColor="#000000"
+        android:textColorHighlight="#C50C0C"
+        android:textColorHint="#C71A1A"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Spinner
+        android:id="@+id/spinId"
+        android:layout_width="439dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="32dp"
+        android:paddingTop="0dp"></Spinner>
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="382dp"
+        android:layout_height="599dp"
+        android:layout_marginLeft="20dp"
+        app:srcCompat="@drawable/samosa2" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:text="To rovide you with the best dining experience, we need your permission to acess your device's location"
+        android:textAlignment="center"
+        android:textColor="#808080"
+        android:textSize="15sp"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="AG"
+        android:textStyle="bold"
+        android:textSize="40sp"
+        android:textAlignment="center"/>
+
+
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textcolour">#1FC57A</color>
+    <color name="startcolour">#660211</color>
+    <color name="endcolour">#660211</color>
+    <color name="grey">#212020</color>
+    <color name="light_grey">#626262</color>
+    <color name="searchshape">#D9D4D4</color>
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Grub</string>
+    <string name="next">Next</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an Account?</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_an_account">Already have an Account</string>
+    <string name="already_have_an_accoun">Already have an Account?</string>
+    <string name="don_t_have_an_accoun">Don\'t have an Account?</string>
+    <string name="already_have_an_accou">Already have an Account?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
