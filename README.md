@@ -1,34 +1,34 @@
-# User Project
+# Grub - User Application
 
-This is the **User-facing** application that allows end users to interact with the system.
+Grub is a food delivery app designed for users to browse restaurants, place orders, and track deliveries with ease.
 
 ## Features
 
-- User-friendly interface with easy navigation  
-- Core functionalities tailored for user interactions  
-- Responsive design compatible with different devices  
-- Integration with backend services (if applicable)
+- Browse available restaurants and menus  
+- Search and filter food items  
+- Place and manage orders  
+- Real-time order status updates  
+- User-friendly and responsive interface
 
 ## How to Run
 
 1. Clone or download the repository.  
 2. Open the project folder in your preferred code editor.  
-3. If applicable, open `index.html` in a web browser or run the app via your development environment.  
-4. Follow any setup instructions (e.g., installing dependencies).
+3. Install dependencies (if applicable).  
+4. Run the app or open `index.html` in a web browser.  
+5. Register or log in to start ordering.
 
 ## Technologies Used
 
-- List the main technologies, e.g.:  
-  - HTML  
-  - CSS  
-  - JavaScript  
-  - Frameworks or libraries (React, Angular, etc., if used)  
-  - Backend or APIs (if any)
+- HTML  
+- CSS  
+- JavaScript  
+- Backend APIs for order management (if applicable)
 
 ## Contribution
 
-Feel free to fork the project and submit pull requests for improvements.
+Contributions and suggestions are welcome! Feel free to fork and create pull requests.
 
 ---
 
-*Add any other relevant info specific to your User project here.*
+*Enjoy using Grub to satisfy your hunger!*
